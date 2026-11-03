@@ -3,9 +3,9 @@
 Profissional de **infraestrutura de TI** com mais de 10 anos em redes e ambientes **Windows Server**, hoje em transição para **DevOps e Cloud (AWS)**.
 
 - 🏢 Trabalho na **LINKTIVA DF** e presto serviços de TI para a Federação Espírita Brasileira (FEB), atendendo todos os setores da organização
-- 🎓 Graduado em Redes de Computadores (UniCESP) · Pós em **Cloud Computing**, em **Segurança da Informação** (UnB) e em **Inteligência Artificial**
+- 🎓 Graduado em Redes de Computadores (UniCESP) · Pós em **Cloud Computing** e em **Inteligência Artificial** (XP Educação) · Pós em **Segurança da Informação** (UnB)
 - 🤖 Aplicando IA no dia a dia: chatbots com LLMs, automação de atendimento e relatórios com IA
-- ☁️ Estudando AWS na prática: VPC, EC2, RDS, Lambda, ECS, IaC com SAM/CloudFormation e pipelines de CI/CD
+- ☁️ Cursando a **Formação AWS** com Henrylle Maia (Mentoria Desafio Labs): VPC, EC2, RDS, Lambda, ECS, IaC com SAM/CloudFormation e pipelines de CI/CD
 - 📍 Brasília, DF
 
 ## 🛠️ Stack
