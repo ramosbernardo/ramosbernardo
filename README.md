@@ -1,6 +1,6 @@
 # Olá, eu sou o Bernardo 👋
 
-Profissional de **infraestrutura de TI** com mais de 10 anos em redes e ambientes **Windows Server**, hoje em transição para **DevOps e Cloud (AWS)**.
+Profissional de **infraestrutura de TI** com mais de 10 anos em redes e ambientes **Windows Server**, conhecimento também em  **DevOps e Cloud (AWS)**.
 
 - 🏢 Trabalho na **LINKTIVA DF** e presto serviços de TI para a Federação Espírita Brasileira (FEB), atendendo todos os setores da organização
 - 🎓 Graduado em Redes de Computadores (UniCESP) · Pós em **Cloud Computing** e em **Inteligência Artificial** (XP Educação) · Pós em **Segurança da Informação** (UnB)
